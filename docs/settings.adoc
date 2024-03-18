@@ -1,0 +1,11 @@
+
+
+:imagedir: ../assets/adoc/img
+:stylesdire: ../assests/adoc/style
+
+:doctype: book
+:organization: Avans University
+:Author: Niels Stunnebrink
+:email: n.stunnebrink@student.avans.nl
+
+:xrefstyle: full
