@@ -1,11 +1,11 @@
 
 include::settings.adoc[]
 
+= Contents
+
 include::toc.adoc[]
 
-= sample
-
-hallo
+Hello
 
 == gello
 
