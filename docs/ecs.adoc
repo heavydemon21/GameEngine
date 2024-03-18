@@ -1,0 +1,31 @@
+
+
+
+
+= ECS
+
+== Entity
+
+== Component
+
+== System
+
+== Structure
+
+[plantuml, diagram-classes, png]
+....
+
+class Componenten
+class ComponentenManager
+
+class SystemManager
+class System
+
+
+class Storage2DArray
+
+
+Storage2DArray -> System
+
+
+....

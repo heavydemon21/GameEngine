@@ -7,6 +7,4 @@ include::toc.adoc[]
 
 Hello
 
-== gello
-
-gello
+include::ecs.adoc[]
