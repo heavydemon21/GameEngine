@@ -1,10 +1,12 @@
 
 include::settings.adoc[]
 
-= Contents
+include::covor.adoc[]
+
+include::foreword.adoc[leveloffset=+1]
+
+//include::introduction.adoc[]
 
 include::toc.adoc[]
 
-Hello
-
-include::ecs.adoc[]
+include::ecs.adoc[leveloffset=+1]

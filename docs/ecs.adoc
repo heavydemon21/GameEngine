@@ -1,14 +1,21 @@
 
-
-
-
 = ECS
+
+== Introduction
+
+This is a brief introduction to the ECS system.
 
 == Entity
 
+entity
+
 == Component
 
+component
+
 == System
+
+system
 
 == Structure
 
@@ -29,3 +36,4 @@ Storage2DArray -> System
 
 
 ....
+

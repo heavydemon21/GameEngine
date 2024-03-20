@@ -1,7 +1,9 @@
 
 
-:imagedir: ../assets/adoc/img
-:stylesdire: ../assests/adoc/style
+:imagesdir: ../assets/adoc/img
+:pdf-themesdir: ../assets/adoc/style
+:pdf-stylesdir: ../assets/adoc/style
+:pdf-fontsdir: ../assets/adoc/style
 
 :doctype: book
 :organization: Avans University

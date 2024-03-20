@@ -1,0 +1,6 @@
+
+:pdf-style: custom
+
+= Game engine
+:title-logo-image: image::covor.png[]
+
