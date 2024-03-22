@@ -5,9 +5,11 @@
 :pdf-stylesdir: ../assets/adoc/style
 :pdf-fontsdir: ../assets/adoc/style
 
+:bibliography-database: ref.bib
+:bibliography-style: apa
+
 :doctype: book
 :organization: Avans University
 :Author: Niels Stunnebrink
 :email: n.stunnebrink@student.avans.nl
-
-:xrefstyle: full
+:xrefstyle: short

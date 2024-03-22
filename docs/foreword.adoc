@@ -3,13 +3,9 @@
 
 
 
-= Foreword
+= Abstract 
 
-I am Niels Stunnebrink, currently third-year student pursuing studies in embedded and computer science course at Avans University of applied sciences. The root of this research document originates from a curiosity point of view while also trying to improve my personal skills.
+This research document is for creating my own game engine and write my progress down for what went wrong and right. Additionally, this game engine will eventually be used by myself to write and publish a game. To achioeve this result of creating a game engine
 
-As the author of this report, i have always been interested in making my own video game because i have always been playing games i wanted to find out how to build one. However, not only do i wanted to build my game i wanted to try build everything on my own, so the game engine first and then try making a game with that engine as well.
-
-
-I hope that this document provides a insightful, informative, and a different way of looking at the game engine. If there are questions or i made a mistake you can contact me at {email}.
 
 

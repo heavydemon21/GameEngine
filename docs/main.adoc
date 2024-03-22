@@ -10,3 +10,7 @@ include::foreword.adoc[leveloffset=+1]
 include::toc.adoc[]
 
 include::ecs.adoc[leveloffset=+1]
+
+Testing citing cite:[CitekeyBook] + cite:[Test] gekkigheid
+
+bibliography::[]
