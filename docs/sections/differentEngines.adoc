@@ -1,0 +1,18 @@
+
+
+
+
+
+= Game engine
+
+There are many different game engines on the market, that each have their advantages and disadvantages. That is why this section is necessary, to understand the different popular engines and learn the different implementation they are using. 
+
+.The three most popular engines on the market are:
+* Unreal Engine
+* Unity
+* Godot
+
+
+== Unity
+
+Unity has adapted their engine over the years especially the last few years they started to implement a newer architecture focused on a data-oriented design. This new design is created to enhance the performance and scalability, it is called Entity-Component-System also known as an ECS-model. Altough, this model has been around for quite a long time only recently is it being used more, for more information about the history look at cite:[]

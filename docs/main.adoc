@@ -1,15 +1,17 @@
 
-include::settings.adoc[]
+include::sections/settings.adoc[]
 
-include::covor.adoc[]
+include::sections/covor.adoc[]
 
-include::foreword.adoc[leveloffset=+1]
+include::sections/foreword.adoc[leveloffset=+1]
 
 //include::introduction.adoc[]
 
-include::toc.adoc[]
+include::sections/toc.adoc[]
 
-include::ecs.adoc[leveloffset=+1]
+include::sections/differentEngines.adoc[leveloffset=+1]
+
+include::sections/ecs.adoc[leveloffset=+1]
 
 Testing citing cite:[CitekeyBook] + cite:[Test] gekkigheid
 
